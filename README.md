@@ -64,8 +64,10 @@ The screenshots are stored in the repository root alongside this README.
 
 ## 📂 Project Files
 
-- `ca69371c-bea5-425e-bb73-f0d712bec384Sales_Orders_Report.pbix` — Power BI Desktop report.
-- Four PNG dashboard screenshots in the repository root.
+
+
+- - [Скачать Power BI файл](https://github.com/Elena775775/power-bi-sales-analytics1/raw/refs/heads/main/ca69371c-bea5-425e-bb73-f0d712bec384Sales_Orders_Report.pbix)
+  - - [`ca69371c-bea5-425e-bb73-f0d712bec384Sales_Orders_Report.pbix`](ca69371c-bea5-425e-bb73-f0d712bec384Sales_Orders_Report.pbix) — Power BI Desktop report.
 
 ## 🚀 How to Explore
 
